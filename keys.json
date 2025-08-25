@@ -1,8 +1,10 @@
 {
   "123": {
-    "expires": "2026-12-31 23:59"
+    "expires": "2026-09-01 12:00",
+    "HWID": "XXXXXXXX-XXXX-XXXX-XXXX"
   },
-  "terkapon": {
-    "expires": "2026-12-31 23:59"
+  "t.me/RobloxerScript": {
+    "expires": null,
+    "HWID": null
   }
 }
